@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hellofile
+cat /etc/password /etc/hosts
