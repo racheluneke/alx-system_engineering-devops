@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-puts AGRV[0].scan (/hbt*h8n/)
+puts AGRV[0].scan (/hbt*h8n/).join
